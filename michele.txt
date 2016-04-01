@@ -1,3 +1,6 @@
 io
 ciao
-pippo
+<<<<<<< HEAD
+=======
+pluto
+>>>>>>> 574aefd1fb2593b7ed8a4b4adb6285ad117441e4
